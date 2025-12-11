@@ -42,5 +42,3 @@ This project demonstrates distributed data processing, efficient feature enginee
 
 
 
-*(Optional — add your screenshot here after adding sample_output.png)*
-
